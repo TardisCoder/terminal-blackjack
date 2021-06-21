@@ -1,0 +1,45 @@
+Project Scope:
+Create a terminal based Blackjack game for one player, against the 'house'.
+
+Blackjack Rules:
+
+Start with 100 points. 
+
+Draw cards until you reach 21. If your hand is higher than the dealer, you win. 
+
+Hit - take a card
+Stand - end turn and stop (does not take a card)
+Double - Double wager, take one card, and finish
+Split - If two cards are the same, separate to make two hands.
+Surrender - give up half-bet and retire from the game.
+
+Number Cards - their numerical value
+Face Cards - 10
+Ace - 1 or 11 (players choice)
+
+
+If total exceeds 21 points, it busts -- all bets are lost to the house.
+
+
+Dealer draws until the hand totals 17 or higher. If the dealer busts, all players win.
+
+
+
+A player total of 21 on the first two cards is a blackjack and wins immediately, unless the dealer also has one -- this is a tie.
+If it's a tie, bets are returned.
+
+Blackjacks are payed 3:2 odds. (Bet + (Bet * (3/2)))
+
+Insurance Bets - If the dealer shows an ace, an insurance bet is allowed. If the dealer has a blackjack insurance pays 2 to 1.
+
+
+
+
+https://coding.tools/ascii-table
+
+
+
+░
+
+
+
